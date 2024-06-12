@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Relative Layout Task</string>
+    <string name="markattendance">Mark Attendance</string>
+    <string name="showattendance">Show\nAttendance</string>
+    <string name="homework">Home\nWork</string>
+    <string name="maekattendance">Mark\nAttendance</string>
+    <string name="gallery">Gallery</string>
+    <string name="notice">Notice</string>
+    <string name="payfee">Pay Fee</string>
+    <string name="about">About</string>
+</resources>
